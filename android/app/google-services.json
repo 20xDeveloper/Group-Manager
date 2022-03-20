@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972218219945",
+    "firebase_url": "https://group-manager-daf34.firebaseio.com",
+    "project_id": "group-manager-daf34",
+    "storage_bucket": "group-manager-daf34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972218219945:android:2a43b0be6b8a38f81498b8",
+        "android_client_info": {
+          "package_name": "com.example.group_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972218219945-stmlkm6tj61j2frm959e4c1lsbu6egv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClJ0cacdBjq6hAhsHv9x9KveoCkFWP_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972218219945-stmlkm6tj61j2frm959e4c1lsbu6egv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
